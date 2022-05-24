@@ -1,0 +1,2 @@
+# Money-Manager
+Money Manager adalah project yang saya dan tim saya buat untuk tugas akhir sekolah kami. dengan menggunakan bahasa PHP, HTML, CSS, juga Javascript serta framework CodeIgneter dan juga template Bootstrap. Money Manager merupakan sebuah sistem aplikasi berbasis web yang mempunyai fitur utama yaitu pemasukan dan pengeluaran. Project kami bertujuan agar masyarakat lebih dapat mengelola keuangan mereka dengan teratur, praktis, dan mudah.
